@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=aarch64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2026_STM32F407_BlinkLED Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blinkled Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:class2. Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2026_STM32F407_BlinkLED\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:2026_STM32F407_BlinkLED\ Debug/activeLaunchTarget=null\:---
